@@ -5,6 +5,8 @@
 ## Build generated
 build/
 DerivedData/
+.DS_Store
+chute_output/
 
 ## Various settings
 *.pbxuser
